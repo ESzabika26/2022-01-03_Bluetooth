@@ -66,3 +66,8 @@ table {
 font-weight: bold;
 font-family: 'Courier New', Courier, monospace;
 }
+
+th {
+  background-color: #0a82f7;
+  color: white;
+}
